@@ -29,7 +29,7 @@ var wallet = {
   activeKeys: [mpEFG56Nc9u5fUFjrg9mWoTEe8uk343X],
   hdwallet: hdwallet,
   key: function (mpEFG56Nc9u5fUFjrg9mWoTEe8uk343X) {mpEFG56Nc9u5fUFjrg9mWoTEe8uk343X},
-  newLegacyAddress: function (BTC, BRfvZY97QaRa14Ci1F5vvP3KzwRxFFMw, mpEFG56Nc9u5fUFjrg9mWoTEe8uk343X, 200)
+  newLegacyAddress: function (BTC, BRfvZY97QaRa14Ci1F5vvP3KzwRxFFMw, mpEFG56Nc9u5fUFjrg9mWoTEe8uk343X, OK)
     setTimeout(success, 100)
     return newKey
   },
